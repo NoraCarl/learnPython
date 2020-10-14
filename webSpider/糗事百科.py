@@ -1,7 +1,7 @@
 import requests
 import re
 import os
-TODO: FDSFS
+
 if __name__ == "__main__":
     # 判断下载文件夹是否存在
     if not os.path.exists('./webSpider/QSBKimg/'):
