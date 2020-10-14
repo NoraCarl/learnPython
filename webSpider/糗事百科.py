@@ -1,9 +1,7 @@
 import requests
 import re
 import os
-'''
-TODO 批量获取糗事网的糗图增添过UA检测
-'''
+TODO: FDSFS
 if __name__ == "__main__":
     # 判断下载文件夹是否存在
     if not os.path.exists('./webSpider/QSBKimg/'):
